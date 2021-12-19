@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Slidable menu with navigation drawer</string>
+    <string name="item_1">item 1</string>
+    <string name="item_2">item 2</string>
+    <string name="item_3">item 3</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="activity">ACTIVITY</string>
+</resources>
